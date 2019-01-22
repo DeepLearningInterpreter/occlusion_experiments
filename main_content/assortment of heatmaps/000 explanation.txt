@@ -1,0 +1,14 @@
+The naming of the images is structured as follows:
+
+{name of the image}_{the model used, FRCNN for Faster R-CNN and SSD for SSD}_
+{l means that the effect on the localization accuracy is measured, 
+c means that the effect on the classification confidence is measured}_
+{this number corresponds to the stride}_{this number corresponds to the size of the box}.jpg
+
+So, "image18_SSD_c_0.5_0.1.jpg" corresponds to the heatmap that is the result of an occlusion 
+experiment with the following specifications:
+image name: 		image18
+model:			SSD
+decrease in terms of: 	classification confidence
+stride:			0.5
+size:			0.1
