@@ -1,0 +1,12 @@
+To see the evaluation outcomes one needs to use TensorBoard, which can be
+launched as follows:
+
+1.  Open the command prompt.
+2.  Navigate to "occlusion_experiments\main_content\multitude_of_possible_detectors"
+3.  Run the following command:
+    tensorboard --logdir="evaluation_outcomes"
+4.  Use your browser to navigate to the page indicated in the printing output of
+    the command prompt.
+
+You should be able to see the COCO evaluation metrics and some visualized
+detections.

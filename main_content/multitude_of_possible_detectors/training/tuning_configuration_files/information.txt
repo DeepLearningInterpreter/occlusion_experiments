@@ -1,0 +1,5 @@
+This folder contains the configuration files that have been used to tune the learning rate.
+
+If you point to one of the configuration files in the colab notebook for training,
+the learning rate schedule (and other configurations) specified in the
+configuratoin file will be adopted. 
