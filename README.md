@@ -1,5 +1,5 @@
 # occlusion_experiments
-This repository contains supplementary material to a paper that is currently under review for ICML 2019. Among other content, the code and data needed to reproduce the results are included.
+This repository contains supplementary material to a paper that is currently under review for ICML 2019. Among other content, the code and data, which are needed to reproduce the results, are included.
 
 This repository allows for fast reproduction of the occlusion experiments. No downloads and installations are required because the code can be ran in the cloud for free, using Google Colaboratory. 
 
