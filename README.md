@@ -1,5 +1,5 @@
 # occlusion_experiments
-This repository contains supplementary material that belongs to the research I did for my master thesis project. A link to the final version of my thesis will be posted here soon. Among other content, the code and data, which are needed to reproduce the results, are included.
+This repository contains supplementary material that belongs to the research I conducted for my master's thesis. A link to the final version of my thesis will be posted here soon. Among other content, the code and data, which are needed to reproduce the results, are included.
 
 This repository allows for fast reproduction of the occlusion experiments. No downloads and installations are required because the code can be ran in the cloud for free, using Google Colaboratory. 
 
